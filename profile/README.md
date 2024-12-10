@@ -1,6 +1,6 @@
 <div align="center">
   <img alt="로고" width="700" src="https://github.com/user-attachments/assets/addd2b33-5d34-4d10-9cb2-c8c50c59fd5a"/>
-  <h3>음성 분석과 동작 인식 기술을 결합한<br>생성형 AI 기반 대화 시뮬레이션 서비스</h3>
+  <h2>음성 분석과 동작 인식 기술을 결합한<br>생성형 AI 기반 대화 시뮬레이션 서비스</h2>
 </div>  
 <br>
 
