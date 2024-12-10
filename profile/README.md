@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="로고" width="700" src="https://github.com/user-attachments/assets/addd2b33-5d34-4d10-9cb2-c8c50c59fd5a"/>
+  <img alt="로고" width="650" src="https://github.com/user-attachments/assets/addd2b33-5d34-4d10-9cb2-c8c50c59fd5a"/>
   <h2>음성 분석과 동작 인식 기술을 결합한<br>생성형 AI 기반 대화 시뮬레이션 서비스</h2>
 </div>  
 <br>
@@ -73,11 +73,14 @@ https://youtu.be/T-Llk4geAak?si=B9vGFTBc8z093h32
 <br><br> 
 
 ## 📑 프로젝트 소개 자료
-<img width="800" src="https://github.com/user-attachments/assets/5a6d0450-2651-45e4-a104-a714aa858875"/><hr>
-<img width="800" src="https://github.com/user-attachments/assets/cc6d52b1-2325-4e99-9840-659cbac3a729"/><hr>
-<img width="800" src="https://github.com/user-attachments/assets/f79447b3-f1c8-4ce9-89a2-d7f2193bce19"/><hr>
-<img width="800" src="https://github.com/user-attachments/assets/a55bd64c-cbfc-4187-961e-e8a24efe0afb"/><hr>
-<img width="800" src="https://github.com/user-attachments/assets/a8ba7990-b69b-4f96-8457-30fc29c07e9d"/><hr>
-<img width="800" src="https://github.com/user-attachments/assets/2973f8d3-5f5c-42bc-88f9-9eb313b077b3"/><hr>
-<img width="800" src="https://github.com/user-attachments/assets/91801042-51e5-4332-8755-de2a39ef1ed1"/><hr>
-<img width="800" src="https://github.com/user-attachments/assets/9ddf6fae-23a2-4234-842c-da5bd9329ed8"/>
+<details>
+  <summary>자세히 보기</summary>
+  <img width="800" src="https://github.com/user-attachments/assets/5a6d0450-2651-45e4-a104-a714aa858875"/><hr>
+  <img width="800" src="https://github.com/user-attachments/assets/cc6d52b1-2325-4e99-9840-659cbac3a729"/><hr>
+  <img width="800" src="https://github.com/user-attachments/assets/f79447b3-f1c8-4ce9-89a2-d7f2193bce19"/><hr>
+  <img width="800" src="https://github.com/user-attachments/assets/a55bd64c-cbfc-4187-961e-e8a24efe0afb"/><hr>
+  <img width="800" src="https://github.com/user-attachments/assets/a8ba7990-b69b-4f96-8457-30fc29c07e9d"/><hr>
+  <img width="800" src="https://github.com/user-attachments/assets/2973f8d3-5f5c-42bc-88f9-9eb313b077b3"/><hr>
+  <img width="800" src="https://github.com/user-attachments/assets/91801042-51e5-4332-8755-de2a39ef1ed1"/><hr>
+  <img width="800" src="https://github.com/user-attachments/assets/9ddf6fae-23a2-4234-842c-da5bd9329ed8"/>
+</details>
